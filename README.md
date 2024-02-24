@@ -11,7 +11,7 @@
       <img src="./hello-world.gif" width="290" height="290" frameBorder="0" class="giphy-embed" allowFullScreen></img>
   </a> -->
   <h2> 👋 Hi! I'm a Software Developer :p </h2>
-  <h3>This is my second github account, [here is my messy old one](https://www.github.com/caro-marks) </h3>
+  <h3>This is my second github account, here is my messy old one: https://www.github.com/caro-marks </h3>
   <br/>
   <h4> 🔭 I’m currently working looking for a new job! </h4>
   <h5> :computer: I have experience with these following languages, frameworks and tools: </h5>
