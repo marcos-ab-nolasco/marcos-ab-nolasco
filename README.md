@@ -25,7 +25,7 @@
     -  Nuxt.js;
     -  Node.js;
     -  Aws services;
-  <h5> 🌱 Recently I've been practicing AWS services. </h5>
+  <h5> 🌱 Recently I've been studying to get AWS certification. </h5>
   <h5> 🌱 I’m currently learning Data Sciences/Machine Learning technologies. </h5>
 </div>
 
