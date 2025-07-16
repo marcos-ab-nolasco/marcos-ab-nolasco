@@ -13,7 +13,8 @@
   <h2> 👋 Hi! I'm a Software Developer :p </h2>
   <h3>This is my second github account, here is my messy old one: https://www.github.com/caro-marks </h3>
   <br/>
-  <h4> 🔭 I’m currently looking for a new job! </h4>
+  <h4> 🔭 I’m currently working in a fintech! </h4>
+  <h4> Here you will find some side projects/ideas. </h4>
   <h5> :computer: I have experience with these following languages, frameworks and tools: </h5>
     -  Python;
     -  Javascript;
@@ -25,8 +26,9 @@
     -  Nuxt.js;
     -  Node.js;
     -  Aws services;
-  <h5> 🌱 Recently I've been studying to get AWS certification. </h5>
-  <h5> 🌱 I’m currently learning Data Sciences/Machine Learning technologies. </h5>
+<!--   <h5> 🌱 Recently I've been studying to get AWS certification. </h5> -->
+  <h5> 🌱 Recently I've been studying Data Sciences/Machine Learning technologies. </h5>
+  <h5> 🌱 I'm currently learning Agentic integrations/n8n. </h5>
 </div>
 
 <details>
